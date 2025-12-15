@@ -1,4 +1,4 @@
-# 📌 QR Code Component - Front End Mentor - First Challenge
+# 📌 Single price grid component master - Front End Mentor 
 
 ## 🖼️ Vista previa
 
